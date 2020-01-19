@@ -14,8 +14,6 @@ namespace lotto.console
                 PlotDraw(draw);
                 Console.WriteLine();
             }
-
-            Console.ReadKey();
         }
 
         private static void PlotDraw(Draw draw)
